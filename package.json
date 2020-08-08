@@ -1,0 +1,46 @@
+{
+    "name": "Helen",
+    "displayName": "helen",
+    "description": "A collection of Ligth themes with grey and brown backgrounds and black text. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Helen",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-1.json"
+            },
+            {
+                "label": "Helen",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-2.json"
+            },
+            {
+                "label": "Helen",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-3.json"
+            },
+            {
+                "label": "Helen",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-4.json"
+            },
+            {
+                "label": "Helen",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-5.json"
+            },
+            {
+                "label": "Helen",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-6.json"
+            }
+        ]
+    }
+}
