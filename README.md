@@ -1,16 +1,51 @@
-# README
-## This is the README for your extension "ellen"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Helena Theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Helena theme collection is available on the Extension Marketplace. Search for Helena Theme, install, and then set it as your theme!
+The collection has grey and brown backgrounds, all with a black text color.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Select Themes
+
+* Open `File > Preferences > Color Themes` and pick Helena color themes.
 
 **Enjoy!**
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+---
+## Agamenon
+
+![Image of Agamenon](images/agamenon.png)
+
+---
+## Aquiles
+
+![Image of Aquiles](images/aquiles.png)
+
+---
+## Casandra
+
+![Image of Casandra](images/casandra.png)
+
+---
+## Hector
+
+![Image of Hector](images/hector.png)
+
+---
+## Menelao
+
+![Image of Menelao](images/menelao.png)
+
+---
+## Odiseo
+
+![Image of Odiseo](images/odiseo.png)
+
+---
+## Paris
+
+![Image of Paris](images/paris.png)
+
+---
+## Teseo
+
+![Image of Teseo](images/teseo.png)

@@ -1,8 +1,13 @@
 {
     "name": "helena",
     "displayName": "Helena",
-    "description": "A collection of Ligth themes with grey and brown backgrounds and black text. ",
+    "description": "A collection of Ligth themes with grey and brown backgrounds and black text.",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hyperdarker/helena-theme.git"
+    },
+    "icon": "images/helena-icon.png",
     "engines": {
         "vscode": "^1.47.0"
     },
