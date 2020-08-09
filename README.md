@@ -1,14 +1,12 @@
 # Helena Theme for Visual Studio Code
 
-Helena theme collection is available on the Extension Marketplace. Search for Helena Theme, install, and then set it as your theme!
-The collection has grey and brown backgrounds, all with a black text color.
+Helena theme is a collection of themes with grey and brown backgrounds, all with a black text.
 
 ## Select Themes
 
 * Open `File > Preferences > Color Themes` and pick Helena color themes.
 
 **Enjoy!**
-
 
 ---
 ## Agamenon
@@ -49,3 +47,4 @@ The collection has grey and brown backgrounds, all with a black text color.
 ## Teseo
 
 ![Image of Teseo](images/teseo.png)
+
