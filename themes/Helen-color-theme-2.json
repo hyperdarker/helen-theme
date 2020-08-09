@@ -2,10 +2,10 @@
 
 
 
-	"name": "Helen",
+	"name": "Helena - Teseo",
 	"type": "light",
 	"colors": {
-		"editor.background": "#d7ccc8",
+		"editor.background": "#c0b5a4",
 		"editor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#ffffff32"
 	},

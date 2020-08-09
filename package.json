@@ -1,6 +1,6 @@
 {
-    "name": "Helen",
-    "displayName": "helen",
+    "name": "helena",
+    "displayName": "Helena",
     "description": "A collection of Ligth themes with grey and brown backgrounds and black text. ",
     "version": "0.0.1",
     "engines": {
@@ -12,35 +12,45 @@
     "contributes": {
         "themes": [
             {
-                "label": "Helen",
+                "label": "Helena - Agamenon",
                 "uiTheme": "vs",
                 "path": "./themes/Helen-color-theme-1.json"
             },
             {
-                "label": "Helen",
+                "label": "Helena - Aquiles",
                 "uiTheme": "vs",
                 "path": "./themes/Helen-color-theme-2.json"
             },
             {
-                "label": "Helen",
+                "label": "Helena - Casandra",
                 "uiTheme": "vs",
                 "path": "./themes/Helen-color-theme-3.json"
             },
             {
-                "label": "Helen",
+                "label": "Helena - Hector",
                 "uiTheme": "vs",
                 "path": "./themes/Helen-color-theme-4.json"
             },
             {
-                "label": "Helen",
+                "label": "Helena - Menelao",
                 "uiTheme": "vs",
                 "path": "./themes/Helen-color-theme-5.json"
             },
             {
-                "label": "Helen",
+                "label": "Helena - Odiseo",
                 "uiTheme": "vs",
                 "path": "./themes/Helen-color-theme-6.json"
+            },
+            {
+                "label": "Helena - Paris",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-7.json"
+            },
+            {
+                "label": "Helena - Teseo",
+                "uiTheme": "vs",
+                "path": "./themes/Helen-color-theme-8.json"
             }
-        ]
+       ]
     }
 }

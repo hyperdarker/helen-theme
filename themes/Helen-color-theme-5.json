@@ -2,10 +2,10 @@
 
 
 
-	"name": "Helen",
+	"name": "Helena - Odiseo",
 	"type": "light",
 	"colors": {
-		"editor.background": "#babdbe",
+		"editor.background": "#c4c6cf",
 		"editor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#ffffff32"
 	},

@@ -2,10 +2,10 @@
 
 
 
-	"name": "Helena - Menelao",
+	"name": "Helena - Hector",
 	"type": "light",
 	"colors": {
-		"editor.background": "#d7ccc8",
+		"editor.background": "#babdbe",
 		"editor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#ffffff32"
 	},
