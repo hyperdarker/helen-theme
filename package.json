@@ -2,6 +2,7 @@
     "name": "helena",
     "displayName": "Helena",
     "description": "Helena is a collection of Ligth themes with grey and brown backgrounds and black text.",
+    "publisher": "hyperdarker",
     "version": "0.0.1",
     "repository": {
         "type": "git",
